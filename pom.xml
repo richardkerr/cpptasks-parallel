@@ -25,9 +25,9 @@
     This plugin compiles native code and publishes native artifacts in the for of nar files.
   </description>
   <scm>
-    <connection>scm:git:git://github.com/richardkerr/maven-nar-plugin.git</connection>
-    <developerConnection>scm:git:git://github.com/richardkerr/maven-nar-plugin.git</developerConnection>
-    <url>scm:git:git://github.com/richardkerr/maven-nar-plugin.git</url>
+    <connection>scm:git:git@github.com:richardkerr/cpptasks-parallel.git</connection>
+    <developerConnection>scm:git:git@github.com:richardkerr/cpptasks-parallel.git</developerConnection>
+    <url>scm:git:git@github.com:richardkerr/cpptasks-parallel.git</url>
   </scm>
   <properties>
     <mavenVersion>2.0.9</mavenVersion>
